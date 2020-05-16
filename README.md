@@ -1,5 +1,10 @@
 # inbox-ui
 
+Preview of the Finished App
+
+![](/src/assets/homepage.png)
+
+
 ## Project setup
 ```
 yarn install
